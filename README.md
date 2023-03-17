@@ -1,6 +1,7 @@
 # purge.sh
 Recursive delete of old file versions
 
+```
 #
 # $> DRYRUN=y /var/cache/distfiles/purge.sh /var/cache/distfiles
 #
@@ -31,3 +32,4 @@ Recursive delete of old file versions
 # keeping /var/cache/distfiles/git3-src/qt_qtbase.git/refs/ta
 #
 #
+```
